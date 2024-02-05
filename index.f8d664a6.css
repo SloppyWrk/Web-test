@@ -812,7 +812,7 @@ code {
 }
 .bg-side-purple-700 {
   --tw-bg-opacity: 1;
-  background-color: rgb(84 40 179 / var(--tw-bg-opacity));
+  background-color: rgb(102 235 204 / var(--tw-bg-opacity));
 }
   .bg-pale-green-600:hover {
     background-color: #98fb98; /* pale green */
@@ -1308,10 +1308,10 @@ code {
     scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
 }
 .group.active .group-\[\.active\]\:border-purple-400\/60 {
-  border-color: #c084fc99;
+  border-color: #66ffcc;
 }
 .group.active .group-\[\.active\]\:bg-side-purple-700\/30 {
-  background-color: #5428b34d;
+  background-color: #66ebcc;
 }
 .group.active .group-\[\.active\]\:font-title {
   font-family: Poppins, ui-sans-serif, system-ui, -apple-system,
@@ -1343,7 +1343,7 @@ code {
   border-color: rgb(63 63 70 / var(--tw-border-opacity));
 }
 .hover\:border-purple-400\/40:hover {
-  border-color: #c084fc66;
+  border-color: #99f199;
 }
 .hover\:bg-zinc-800:hover {
   --tw-bg-opacity: 1;
@@ -1351,14 +1351,14 @@ code {
 }
 .hover\:bg-side-purple-600:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(105 50 224 / var(--tw-bg-opacity));
+  background-color: rgb(102 235 204 / var(--tw-bg-opacity));
 }
 .hover\:bg-material:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(31 32 35 / var(--tw-bg-opacity));
 }
 .hover\:bg-side-purple-700\/20:hover {
-  background-color: #5428b333;
+  background-color: #33cccc;
 }
 .hover\:text-white:hover {
   --tw-text-opacity: 1;
