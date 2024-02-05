@@ -1308,10 +1308,10 @@ code {
     scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
 }
 .group.active .group-\[\.active\]\:border-purple-400\/60 {
-  border-color: #66ffcc;
+  border-color: #449e89;
 }
 .group.active .group-\[\.active\]\:bg-side-purple-700\/30 {
-  background-color: #66ebcc;
+  background-color: #449e89;
 }
 .group.active .group-\[\.active\]\:font-title {
   font-family: Poppins, ui-sans-serif, system-ui, -apple-system,
