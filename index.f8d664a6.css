@@ -225,10 +225,10 @@ html {
   position: relative;
 }
 body {
-  height: 100%;
-  background: radial-gradient(120vh at 25% -20px, #5a1ae526, #5a1ae526, #0000),
-    radial-gradient(150vh at 70% 80%, #1a50e526, #0000), #121316;
-}
+height: 100%;
+background: radial-gradient(120vh at 25% -20px, #3b444a, #292b32, #1a1824),
+radial-gradient(150vh at 70% 80%, #3b444a, #292b32), #1a1824;
+    }
 *,
 :before,
 :after,
