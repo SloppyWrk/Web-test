@@ -812,7 +812,7 @@ code {
 }
 .bg-side-purple-700 {
   --tw-bg-opacity: 1;
-  background-color: rgb(102 235 204 / var(--tw-bg-opacity));
+  background-color: rgb(68 158 137 / var(--tw-bg-opacity));
 }
   .bg-pale-green-600:hover {
     background-color: #98fb98; /* pale green */
