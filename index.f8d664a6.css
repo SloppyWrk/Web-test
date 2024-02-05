@@ -814,6 +814,9 @@ code {
   --tw-bg-opacity: 1;
   background-color: rgb(84 40 179 / var(--tw-bg-opacity));
 }
+  .bg-pale-green-600:hover {
+    background-color: #98fb98; /* pale green */
+}
 .bg-material\/30 {
   background-color: #1f20234d;
 }
