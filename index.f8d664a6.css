@@ -6,16 +6,16 @@
 }
 @font-face {
   font-family: SatoshiVariable;
-  src: url(Satoshi-Variable.e97601a1.ttf) format("truetype");
+  src: url(https://sidestore.io/Satoshi-Variable.e97601a1.ttf) format("truetype");
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: Satoshi;
-  src: url(Satoshi-Bold.9042e65d.woff2) format("woff2"),
-    url(Satoshi-Bold.d6123eb6.woff) format("woff"),
-    url(Satoshi-Black.ae0b9de3.woff2) format("woff2"),
-    url(Satoshi-Black.fb3487f7.woff) format("woff");
+  src: url(https://sidestore.io/Satoshi-Bold.9042e65d.woff2) format("woff2"),
+    url(https://sidestore.io/Satoshi-Bold.d6123eb6.woff) format("woff"),
+    url(https://sidestore.io/Satoshi-Black.ae0b9de3.woff2) format("woff2"),
+    url(https://sidestore.io/Satoshi-Black.fb3487f7.woff) format("woff");
   font-style: normal;
   font-display: swap;
 }
